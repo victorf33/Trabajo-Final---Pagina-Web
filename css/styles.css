@@ -8,7 +8,7 @@ body {
     flex-direction: column;   
 }
 
-body.home .menu a[href="./index.html"],
+body.home .menu a[href="./index.html"]:not(.logo a),
 body.portifolio .menu a[href="../views/portifolio.html"],
 body.servicios .menu a[href="../views/servicios.html"],
 body.presupuesto .menu a[href="../views/presupuesto.html"],
