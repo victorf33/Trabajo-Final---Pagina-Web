@@ -21,9 +21,9 @@ body.contacto .menu a[href="/views/contacto.html"] {
     text-decoration: none;
 }
 
-body.home .menu a[href="./index.html"]:hover,
-body.contacto .menu a[href="./views/contacto.html"]:hover,
-body.servicios .menu a[href="./views/servicios.html"]:hover {
+body.home .menu a[href="/index.html"]:hover,
+body.contacto .menu a[href="/views/contacto.html"]:hover,
+body.servicios .menu a[href="/views/servicios.html"]:hover {
     background-color: #ffffff; 
     color: #0056b3; 
 }
